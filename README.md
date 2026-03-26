@@ -38,4 +38,4 @@ This repository serves as a comprehensive documentation of my transition from a 
 ---
 
 ## 👤 Author:
-**Abhishek Katare** *Network Engineer | Future ML Specialist*
+**Abhishek Katare** *Network Engineer *
